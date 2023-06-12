@@ -14,7 +14,10 @@ List of apn settings
 
 - Submit a PR
 
-NB: Do not run the python script
+## About this fork
+Forked from https://github.com/fbiego/apn-list, thank's for creating this
+
+This repo is for users who need to work with `json` format, which is more supportive now days.
 
 ## Countries
 | Country | Available | APNs |
